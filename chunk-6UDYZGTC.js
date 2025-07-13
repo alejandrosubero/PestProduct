@@ -1,0 +1,1 @@
+import{a}from"./chunk-WZ2J6HMZ.js";import"./chunk-4FQTLCDE.js";import"./chunk-EIU5E3HU.js";import"./chunk-DTBVBDW5.js";import"./chunk-LSD4F7KH.js";import"./chunk-BQIAFBQH.js";import"./chunk-F4KKBD6I.js";import"./chunk-6QGYQCVO.js";import"./chunk-CARY4E7O.js";import"./chunk-SYRJLQDL.js";export{a as FormulationsListComponent};
