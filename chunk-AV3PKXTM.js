@@ -1,1 +1,0 @@
-import{a}from"./chunk-CVCK2VRB.js";import"./chunk-K76HVVQV.js";import"./chunk-CWRYFMIR.js";import"./chunk-HUR4NRDB.js";import"./chunk-B2LAPOTJ.js";import"./chunk-XZLC6AHS.js";import"./chunk-CRMRBZ6Y.js";import"./chunk-RGJBUWC3.js";import"./chunk-CARY4E7O.js";import"./chunk-VZZX6ACQ.js";export{a as FormulationsListComponent};
